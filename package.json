@@ -1,0 +1,9 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie PI with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/bak01076/movieql",
+  "author": "Jongok Yoon",
+  "license": "MIT"
+}
