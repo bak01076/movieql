@@ -1,0 +1,8 @@
+type jongok {
+  name: String!
+  age: Int!
+  gender: String!
+}
+type Query {
+  person: jongok!
+}
